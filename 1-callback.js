@@ -16,6 +16,4 @@ function printTres() {
 
 setTimeout(printUno,1000)
 setTimeout(printDos,0)
-
-
 printTres();
