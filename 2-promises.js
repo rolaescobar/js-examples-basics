@@ -16,3 +16,4 @@ async function add1(x) {
 
 add1(10).then(v=>{console.log(v)})
 
+
